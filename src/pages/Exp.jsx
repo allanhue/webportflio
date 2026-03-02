@@ -14,7 +14,7 @@ const Exp = () => {
 
   const educationData = [
     {
-      year: '2024',
+      // year: '2024',
       institution: 'The Open University Of Kenya',
       title: 'BSc. Data Science',
       description:
@@ -23,7 +23,7 @@ const Exp = () => {
       status: 'In Progress'
     },
     {
-      year: '2024',
+      // year: '2024',
       institution: 'IBM Coursera',
       title: 'Full-Stack Software Developer Certificate',
       description:
@@ -32,7 +32,7 @@ const Exp = () => {
       status: 'Completed'
     },
     {
-      year: '2024',
+      // year: '2024',
       institution: 'Self-Directed Learning',
       title: 'AI/ML Research & Development',
       description:
@@ -104,16 +104,16 @@ const Exp = () => {
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                 <div
-                  style={{
-                    border: '3px solid var(--accent)',
-                    display: 'inline-block',
-                    padding: isMobile ? '0.5rem 0.75rem' : '0.75rem 1rem',
-                    borderRadius: '8px',
-                    backgroundColor: 'var(--background)',
-                    color: 'var(--accent)',
-                    fontWeight: 'bold',
-                    fontSize: isMobile ? '1rem' : '1.2rem'
-                  }}
+                  // style={{
+                  //   border: '3px solid var(--accent)',
+                  //   display: 'inline-block',
+                  //   padding: isMobile ? '0.5rem 0.75rem' : '0.75rem 1rem',
+                  //   borderRadius: '8px',
+                  //   backgroundColor: 'var(--background)',
+                  //   color: 'var(--accent)',
+                  //   fontWeight: 'bold',
+                  //   fontSize: isMobile ? '1rem' : '1.2rem'
+                  // }}
                 >
                   {education.year}
                 </div>
