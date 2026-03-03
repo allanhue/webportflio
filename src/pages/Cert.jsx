@@ -18,7 +18,7 @@ function Cert() {
         "Frontend: TypeScript, Tailwind CSS",
         "Backend: Go, FastAPI",
         "Zoho Ecosystem: Zoho Catalyst, Suite ERP",
-        "Cloud: GCP,",
+        "Cloud: GCP",
       ],
     },
     {

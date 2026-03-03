@@ -65,7 +65,7 @@ const Interests = () => {
       }}
     >
  
-      <p
+      {/* <p
         style={{
           color: 'var(--text-secondary)',
           fontSize: isMobile ? '1rem' : '1.1rem',
@@ -74,9 +74,12 @@ const Interests = () => {
         }}
       >
         My journey spans Software Engineering, Data Science and AI Engineering, driven by continuous learning and innovation. I am continuously building expertise in feature engineering while expanding my knowledge across the ML/AI spectrum.
-      </p>
+      </p> */}
 
       {/* Interests Grid */}
+      <br />
+      <br />
+  
       <div
         className="interests-grid"
         style={{

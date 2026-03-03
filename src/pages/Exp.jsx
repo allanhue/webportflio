@@ -59,16 +59,7 @@ const Exp = () => {
         padding: isMobile ? '1rem' : '2rem'
       }}
     >
-      <p
-        style={{
-          color: 'var(--text-secondary)',
-          fontSize: isMobile ? '1rem' : '1.1rem',
-          marginBottom: '3rem',
-          textAlign: 'center'
-        }}
-      >
-        My continuous growth through formal education, self-directed learning, and practical application.
-      </p>
+ 
 
       <div
         className="education-section"

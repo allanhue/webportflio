@@ -10,9 +10,10 @@ const Experience = () => {
       details: [
         "Design and deploy custom  solutions using Catalyst backend and APIs.",
         "Integrate saas applications with third-party APIs (Payment gateways, Google Workspace, Custom Apps) to enhance data synchronization.",
+        "Develop RESTful APIs for Zoho extensions, improving client reporting capabilities.",
+        "Build payroll systems via zoho creator and  automation scripting  in crm and erp systems",
         "Collaborate with cross-functional teams in Agile projects, delivering applications on schedule.",
         "Optimize code quality through peer reviews and CI/CD best practices (GitHub Actions).",
-        "Develop RESTful APIs for Zoho extensions, improving client reporting capabilities.",
       ],
     },
     {
@@ -20,10 +21,10 @@ const Experience = () => {
       company: "Fiverr",
       period: "Aug 2024 - Present",
       details: [
-        "Built 3 full-stack web apps (React/Node.js) with 95% client satisfaction, including an e-commerce solution optimized for peak loads.",
-        "Enhanced code efficiency using AI-assisted optimization (GitHub Copilot, ChatGPT for debugging).",
+        "Built  full-stack web apps (React/Node.js) with 95% client satisfaction, including an e-commerce solution optimized for peak loads.",
+        "Enhanced code efficiency using AI-assisted optimization (GitHub Copilot for debugging).",
         "Implemented responsive UI/UX with Tailwind CSS, improving mobile conversion and experience.",
-        "Automated client workflows through custom API integrations (Daraja API, Firebase).",
+        "Automated client workflows through custom API integrations (Daraja API, Firebase, Etims Integration).",
         "Maintained a 100% project delivery rate using Git/GitHub for version control and versioned releases.",
       ],
     },
@@ -38,6 +39,7 @@ const Experience = () => {
         padding: "2rem 1rem",
       }}
     >
+      <br />
       <div style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
         {experiences.map((exp, index) => (
           <motion.div

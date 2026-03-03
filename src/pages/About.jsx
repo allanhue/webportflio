@@ -21,6 +21,8 @@ function About() {
           marginBottom: "3rem",
         }}
       >
+        <br />
+        
         <img
           src={photo}
           alt="Allan Mwangi"
@@ -53,10 +55,10 @@ function About() {
             <strong>Data Science Practitioner</strong> with a focus on building
             data-driven and scalable solutions. Certified by{" "}
             <strong>IBM (Coursera)</strong> and <strong>Kaggle</strong>, I
-            specialize in <strong>Python, JavaScript</strong>, and{" "}
-            <strong>cloud technologies</strong> within the Zoho ecosystem. I
+            specialize in <strong>Python, JavaScript</strong> and{" "}
+            <strong>cloud technologies</strong> within the Zoho ecosystem and GCP. I
             have hands-on experience designing intelligent systems and
-            developing web apps that transform raw data into actionable insights.
+            developing  applications that transform raw data into actionable insights.
           </p>
 
           <h3 style={{ color: "var(--accent)", marginTop: "1.5rem" }}>
@@ -66,12 +68,12 @@ function About() {
             My tech journey began with mastering <strong>Python</strong> and{" "}
             <strong>SQL</strong> through Kaggle. Later, I deepened my expertise
             in <strong>full-stack development</strong> using JavaScript,
-            FastAPI, and modern cloud architecture via IBM training. These
+            FastAPI and modern cloud architecture via IBM training. These
             foundations have allowed me to collaborate effectively in{" "}
             <strong>agile teams</strong> while staying ahead of industry trends.
             Today, I’m exploring the intersection of{" "}
             <strong>AI/ML applications</strong> and{" "}
-            <strong>software engineering</strong> — particularly in fintech and
+            <strong>software engineering</strong> — particularly in Fintech and
             healthcare research domains.
           </p>
 
@@ -82,10 +84,10 @@ function About() {
             I thrive in fast-paced environments—whether it’s debugging
             late-night code or optimizing REST APIs. Outside of work, I’m a{" "}
             <strong>lifelong learner</strong> who enjoys reading documentation,
-            solving challenges on <strong>HackerRank</strong>, and contributing
+            solving challenges on <strong>HackerRank</strong> and contributing
             to open-source projects on <strong>Kaggle</strong>. I also believe
             in the importance of balance — physical fitness fuels my discipline,
-            focus, and creativity.
+            focus and creativity.
           </p>
 
           <h3 style={{ color: "var(--accent)", marginTop: "1.5rem" }}>
