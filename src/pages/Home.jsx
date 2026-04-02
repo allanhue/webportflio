@@ -103,6 +103,7 @@ function Home() {
       name: "Project Management System",
       tech: "Golang, TypeScript, PostgreSQL, Tailwind CSS",
       status: "Completed",
+      link: "https://project-manager-one-delta.vercel.app/",
     },
     {
       name: "Car Dealership E-Commerce",
@@ -276,6 +277,20 @@ function Home() {
             >
               <div className="project-header">
                 <h4>{p.name}</h4>
+                <a
+                  href={p.link || "#"}
+                  className={`project-link ${p.link ? "" : "disabled"}`}
+                  target={p.link ? "_blank" : undefined}
+                  rel={p.link ? "noreferrer" : undefined}
+                  aria-label={
+                    p.link ? `Open ${p.name}` : `No link available for ${p.name}`
+                  }
+                  onClick={(e) => {
+                    if (!p.link) e.preventDefault();
+                  }}
+                >
+                  <HiOutlineExternalLink />
+                </a>
                 <span
                   className={`status ${p.status.toLowerCase().replace(/\s+/g, "-")}`}
                 >
