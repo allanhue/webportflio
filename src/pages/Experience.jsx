@@ -8,10 +8,10 @@ const Experience = () => {
       company: "Redian Software Global",
       period: "2025 - Present",
       details: [
-        "Design and deploy custom  solutions using Catalyst backend and APIs.",
+        "Design and deploy custom  solutions using Catalyst,Creator backend and APIs.",
         "Integrate saas applications with third-party APIs (Payment gateways, Google Workspace, Custom Apps) to enhance data synchronization.",
         "Develop RESTful APIs for Zoho extensions, improving client reporting capabilities.",
-        "Build payroll systems via zoho creator and  automation scripting  in crm and erp systems",
+        "Build payroll systems via zoho creator and  automation scripting  in Saas applications and erp systems",
         "Collaborate with cross-functional teams in Agile projects, delivering applications on schedule.",
         "Optimize code quality through peer reviews and CI/CD best practices (GitHub Actions).",
       ],

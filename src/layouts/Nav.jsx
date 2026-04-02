@@ -65,9 +65,9 @@ function Nav() {
             </Link>
           </li>
           <li>
-            <Link to="/interests" className="nav-link" onClick={() => setOpen(false)}>
+            {/* <Link to="/interests" className="nav-link" onClick={() => setOpen(false)}>
               Interests
-            </Link>
+            </Link> */}
           </li>
         </ul>
       </div>
