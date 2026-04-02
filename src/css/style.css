@@ -866,6 +866,43 @@ p {
   margin: 0;
 }
 
+.project-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  margin-left: auto;
+  margin-right: 0.6rem;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--accent), var(--accent-secondary));
+  color: var(--background);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+
+.project-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+  filter: brightness(1.05);
+}
+
+.project-link:focus-visible {
+  outline: 2px solid var(--accent-secondary);
+  outline-offset: 2px;
+}
+
+.project-link.disabled {
+  background: rgba(74, 95, 127, 0.35);
+  color: rgba(240, 244, 248, 0.6);
+  border-color: rgba(74, 95, 127, 0.5);
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+  filter: none;
+}
+
 .status {
   padding: 0.3rem 0.8rem;
   border-radius: 15px;
