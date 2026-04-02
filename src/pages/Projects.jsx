@@ -30,7 +30,7 @@ function Projects() {
       title: "SaaS Product Featuring CRM and Transaction Management",
       description:
         "A comprehensive SaaS platform integrating CRM and transaction management functionalities using FastAPI (Python) and React JavaScript frontend for automation.",
-      technologies: ["Python", "Supabase", "JavaScript", "PostgreSQL"],
+      technologies: ["Python", "NeonDB", "JavaScript", "PostgreSQL"],
       status: "In Development"
     },
     {

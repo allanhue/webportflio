@@ -19,7 +19,7 @@ const Exp = () => {
       title: 'BSc. Data Science',
       description:
         'Comprehensive program covering statistics, machine learning, data visualization and big data technologies. Developed skills in Python (Pandas, NumPy), SQL and data storytelling through projects like customer relations on IT entrepreneurship and sales forecasting using real-world datasets.',
-      skills: ['Python', 'Pytorch', 'Machine Learning', 'Data Science'],
+      skills: ['Python Programming', 'Data Engineering', 'Machine Learning', 'Data Science'],
       status: 'In Progress'
     },
     {
@@ -37,13 +37,13 @@ const Exp = () => {
       title: 'AI/ML Research & Development',
       description:
         'Currently channeling my discipline into AI/ML research, applying tools like scikit-learn and Python to build predictive models while blending my full-stack expertise with a passion for intelligent systems.',
-      skills: ['Python', 'Scikit-learn', 'Machine Learning', 'Data Science', 'Predictive Modeling'],
+      skills: ['Python Programming', 'Scikit-learn', 'Data Engineering', 'Data Science'],
       status: 'In Progress'
     }
   ];
 
   const achievements = [
-    'Coding challenges on HackerRank',
+    'Coding challenges on HackerRank /Leetcode',
     'Peer mentorship and collaborative development',
     'Git/GitHub for version-controlled development',
     'Professional freelance project delivery',

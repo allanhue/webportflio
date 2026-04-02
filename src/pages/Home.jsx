@@ -84,7 +84,7 @@ function Home() {
   const skills = [
     { name: "Python", icon: SiPython, color: "#3776AB" },
     // { name: "JavaScript", icon: SiJavascript, color: "#F7DF1E" },
-    // { name: "C", icon: SiC, color: "#A8B9CC" },
+    { name: "C", icon: SiC, color: "#A8B9CC" },
     { name: "TypeScript", icon: SiTypescript, color: "#3178C6" },
     { name: "Go", icon: SiGo, color: "#00ADD8" },
     // { name: "R", icon: SiR, color: "#276DC3" },
@@ -100,7 +100,12 @@ function Home() {
 
   const projects = [
     {
-      name: "Car Dealership Commerce",
+      name: "Project Management System",
+      tech: "Golang, TypeScript, PostgreSQL, Tailwind CSS",
+      status: "Completed",
+    },
+    {
+      name: "Car Dealership E-Commerce",
       tech: "React, Redux, Node.js, Tailwind CSS",
       status: "Completed",
     },
@@ -109,13 +114,8 @@ function Home() {
       tech: "Zoho Deluge, REST API, JavaScript, Python",
       status: "In Progress",
     },
-    {
-      name: "Data Analytics Dashboard",
-      tech: "Python, JavaScript",
-      status: "Development",
-    },
   ];
-
+  
   const stats = [
     { icon: FaGraduationCap, number: 2, label: "Years of Experience", color: "#3b82f6" },
     { icon: FaCode, number: 5, label: "Projects Completed", color: "#10b981" },
