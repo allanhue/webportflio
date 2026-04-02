@@ -22,7 +22,7 @@ function About() {
         }}
       >
         <br />
-        
+{/*         
         <img
           src={photo}
           alt="Allan Mwangi"
@@ -34,7 +34,7 @@ function About() {
             border: "4px solid var(--accent)",
             marginBottom: "1rem",
           }}
-        />
+        /> */}
         <h4 style={{ color: "var(--accent)", fontStyle: "italic" }}>
           Who am I?
         </h4>
