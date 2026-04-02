@@ -73,20 +73,19 @@ function About() {
             <strong>agile teams</strong> while staying ahead of industry trends.
             Today, I’m exploring the intersection of{" "}
             <strong>AI/ML applications</strong> and{" "}
-            <strong>software engineering</strong> — particularly in Fintech and
-            healthcare research domains.
+            <strong>software engineering</strong>
           </p>
 
           <h3 style={{ color: "var(--accent)", marginTop: "1.5rem" }}>
             What Drives Me
           </h3>
           <p>
-            I thrive in fast-paced environments—whether it’s debugging
-            late-night code or optimizing REST APIs. Outside of work, I’m a{" "}
-            <strong>lifelong learner</strong> who enjoys reading documentation,
-            solving challenges on <strong>HackerRank</strong> and contributing
-            to open-source projects on <strong>Kaggle</strong>. I also believe
-            in the importance of balance — physical fitness fuels my discipline,
+            I thrive in fast-paced environments whether it’s debugging
+            late night code or optimizing  APIs. Outside of work, I’m a{" "}
+            <strong>lifelong learner</strong>  enjoying reading documentation,
+           <strong>articles</strong> contributing 
+            to open-source projects on <strong>Kaggle</strong> and  tech forums. I also believe
+            in the importance of balance  physical fitness fuels my discipline,
             focus and creativity.
           </p>
 
@@ -102,26 +101,26 @@ function About() {
             }}
           >
             <li>
-              <strong>End-to-end development expertise</strong> — from frontend
+              <strong>End-to-end development expertise</strong> : from frontend
               to deployment.
             </li>
             <li>
-              <strong>Data/AI proficiency</strong> — including Pandas and
+              <strong>Data/AI proficiency</strong> : including  libraries like Pandas and frameworks like
               Scikit-learn.
             </li>
             <li>
-              <strong>Collaborative mindset</strong> — comfortable in Git/GitHub
+              <strong>Collaborative mindset</strong> : comfortable in Git/GitHub
               workflows and Agile teams.
             </li>
             <li>
-              <strong>Problem-solving focus</strong> — I build solutions, not
+              <strong>Problem-solving focus</strong> : I build solutions, not
               just code.
             </li>
           </ul>
 
           <p>
             I bridge <strong>technical execution</strong> with{" "}
-            <strong>innovative thinking</strong> — always driven by curiosity
+            <strong>innovative thinking</strong>  always driven by curiosity
             and impact. I’m excited to collaborate on projects that challenge me
             to grow while delivering measurable results.
           </p>

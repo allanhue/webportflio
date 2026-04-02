@@ -27,7 +27,7 @@ function Cert() {
         "Data Science /AI: Cleaning, Analysis, Visualization (Matplotlib, Seaborn, Plotly, Scikit-learn),Scikit-learn (Learning)",
         "DevOps: Git/GitHub, Docker, CI/CD ",
         // "AI/ML: Predictive Modeling,Scikit-learn (Learning)",
-        "Interest :Data Engineering, AI/ML Research",
+        "Interest: Data Engineering, AI/ML Research",
         "Soft Skills: Agile Collaboration, Problem-Solving, Communication",
       ],
     },
