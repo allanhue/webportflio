@@ -34,14 +34,14 @@ function Projects() {
       status: "In Development"
     },
     {
-      title: "Developer Portfolio Website",
-      description:
-        "A dynamic showcase of my full-stack capabilities, built with React and modern CSS. Features responsive design, project case studies, and dark/light theme toggle.",
-      technologies: ["React", "TailwindCSS", "JavaScript", "Responsive Design"],
-      githubLink: "https://github.com/allanhue/LatestportfolioBennie",
-      liveLink: "#",
-      status: "Live"
-    }
+
+      title: "Project Management System",
+      description: "A full‑stack project management app for tracking task hours, performance and team productivity, with support for organizations and free users.",
+      technologies: ["Golang", "TypeScript", "PostgreSQL", "Tailwind CSS","Activity logs"],
+      githubLink: "https://github.com/allanhue/Project_manager",
+      liveLink: "https://project-manager-one-delta.vercel.app",
+      status: "Completed"
+    },
   ];
 
   return (
