@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "../css/style.css";
 import { useSpring, animated } from "react-spring";
 import { motion } from "framer-motion";
-import photo from "../assets/passport allan.jpg";
+import photo from "/Screenshot_2026-04-16-12-58-33-409_com.linkedin.android.jpg";
 import {
   FaEnvelope,
   FaCode,

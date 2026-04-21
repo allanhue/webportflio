@@ -23,17 +23,7 @@ function About() {
       >
         <br />
 {/*         
-        <img
-          src={photo}
-          alt="Allan Mwangi"
-          style={{
-            width: "200px",
-            height: "200px",
-            objectFit: "cover",
-            borderRadius: "50%",
-            border: "4px solid var(--accent)",
-            marginBottom: "1rem",
-          }}
+    
         /> */}
         <h4 style={{ color: "var(--accent)", fontStyle: "italic" }}>
           Who am I?
