@@ -41,8 +41,8 @@ function About() {
         >
           <p>
             I’m <strong>Allan Mwangi</strong>, a passionate{" "}
-            <strong>Software Engineer</strong> and{" "}
-            <strong>Data Science Practitioner</strong> with a focus on building
+            <strong>Software Developer</strong> and{" "}
+            <strong>Data Scientist</strong> with a focus on building
             data-driven and scalable solutions. Certified by{" "}
             <strong>IBM (Coursera)</strong> and <strong>Kaggle</strong>, I
             specialize in <strong>Python, JavaScript</strong> and{" "}

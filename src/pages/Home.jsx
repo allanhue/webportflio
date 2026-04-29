@@ -152,14 +152,14 @@ function Home() {
 
             <h2 className="title">
               <TypeWriter
-                text="Software Engineer & Zoho/Odoo Developer"
+                text="Software Developer & Data Scientist"
                 delay={1500}
                 speed={70}
               />
             </h2>
 
             <p className="bio">
-              Developing skills in software engineering and data science .
+              Developing skills in software development and data science .
             </p>
 
             <div className="status-indicator">

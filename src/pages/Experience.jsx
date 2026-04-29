@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const Experience = () => {
   const experiences = [
     {
-      title: "Software Engineer",
+      title: "Software Developer",
       company: "Redian Software Global",
       period: "2025 - Present",
       details: [
