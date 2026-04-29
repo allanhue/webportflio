@@ -46,7 +46,7 @@ function About() {
             data-driven and scalable solutions. Certified by{" "}
             <strong>IBM (Coursera)</strong> and <strong>Kaggle</strong>, I
             specialize in <strong>Python, JavaScript</strong> and{" "}
-            <strong>cloud technologies</strong> within the Zoho ecosystem and GCP. I
+            <strong>cloud technologies</strong> including the Zoho ecosystem and Google Cloud Platform. I
             have hands-on experience designing intelligent systems and
             developing  applications that transform raw data into actionable insights.
           </p>
