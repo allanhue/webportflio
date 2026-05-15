@@ -152,7 +152,7 @@ function Home() {
 
             <h2 className="title">
               <TypeWriter
-                text="Software Developer & ERP Developer"
+                text="Software Developer & Data Scientist"
                 delay={1500}
                 speed={70}
               />
