@@ -13,12 +13,12 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-content">
-          <div className="footer-section">
+          {/* <div className="footer-section">
             <p className="footer-tagline">Data Practitioner</p>
             <a className="footer-cta" href="mailto:allanmwangi329@gmail.com">
               Let's Work Together
             </a>
-          </div>
+          </div> */}
 
           <div className="footer-section">
             <h4>Contact</h4>

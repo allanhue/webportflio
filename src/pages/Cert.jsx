@@ -24,7 +24,7 @@ function Cert() {
     {
       title: "Specializations & Practices",
       skills: [
-        "Data Science /AI: Cleaning, Analysis, Visualization (Matplotlib, Seaborn, Plotly, Scikit-learn),Scikit-learn (Learning)",
+        "Data Science / ML: Cleaning, Analysis, Visualization (Matplotlib, Seaborn, Plotly, Scikit-learn),Scikit-learn (Learning)",
         "DevOps: Git/GitHub, Docker, CI/CD ",
         // "AI/ML: Predictive Modeling,Scikit-learn (Learning)",
         "Interest: Data Engineering, AI/ML Research",
