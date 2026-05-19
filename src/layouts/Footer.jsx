@@ -40,7 +40,7 @@ function Footer() {
 
         <div className="footer-bottom">
           <p className="footer-copyright">
-            &copy; {currentYear} Allan Mwangi. All rights reserved.
+            &copy; {currentYear} All rights reserved.
           </p>
           <button className="scroll-to-top" onClick={scrollToTop} title="Back to top" aria-label="Back to top">
             <FaArrowUp />
