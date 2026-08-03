@@ -150,13 +150,13 @@ function Home() {
               </h1>
             </div>
 
-            <h2 className="title">
+            {/* <h2 className="title">
               <TypeWriter
                 text="Software Developer "
                 delay={1500}
                 speed={70}
               />
-            </h2>
+            </h2> */}
 
             <p className="bio">
               Developing skills in software development and data science .
