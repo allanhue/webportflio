@@ -17,15 +17,15 @@ function Cert() {
       skills: [ 
         "Frontend: TypeScript, Tailwind CSS",
         "Backend: Go, FastAPI",
-        "Zoho Ecosystem: Zoho Catalyst, Suite ERP",
+        "Erp Ecosystem: Zoho",
         "Cloud: GCP",
       ],
     },
     {
       title: "Specializations & Practices",
       skills: [
-        "Data Science / ML: Cleaning, Analysis, Visualization (Matplotlib, Seaborn, Plotly, Scikit-learn),Scikit-learn (Learning)",
-        "DevOps: Git/GitHub, Docker, CI/CD ",
+        "Data Science / ML: Cleaning, Analysis, Visualization (Matplotlib, Seaborn, Plotly, Scikit-learn)",
+        "DevOps: Git/GitHub, CI/CD ",
         // "AI/ML: Predictive Modeling,Scikit-learn (Learning)",
         "Interest: Data Engineering, AI/ML Research",
         "Soft Skills: Agile Collaboration, Problem-Solving, Communication",
@@ -42,43 +42,7 @@ function Cert() {
         padding: "2rem 1rem",
       }}
     >
-      {/* Intro Section */}
-      {/* <motion.div
-        className="intro-section card"
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.6 }}
-        style={{
-          textAlign: "center",
-          marginBottom: "2rem",
-          padding: "1.5rem",
-          backgroundColor: "var(--background)",
-          borderRadius: "12px",
-          border: "1px solid var(--border-color)",
-          boxShadow: "0 2px 10px rgba(0,0,0,0.08)",
-        }}
-      >
-        <p
-          style={{
-            color: "var(--text-primary)",
-            fontSize: "1.2rem",
-            fontWeight: 500,
-            marginBottom: "0.5rem",
-          }}
-        >
-          Data Science Practitioner | Advancing AI in Healthcare & FinTech
-        </p>
-        <p
-          style={{
-            color: "var(--text-secondary)",
-            fontSize: "1rem",
-            lineHeight: "1.6",
-          }}
-        >
-          Skilled in transforming data insights into scalable business solutions
-          through modern engineering and machine learning practices.
-        </p>
-      </motion.div> */}
+
 
       {/* Skills Grid */}
       <div

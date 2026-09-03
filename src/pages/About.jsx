@@ -42,11 +42,11 @@ function About() {
           <p>
             I’m <strong>Allan Mwangi</strong>, a passionate{" "}
             <strong>Software Developer</strong> and {" "} {" "}
-            <strong>data scientist </strong> with a focus on building
+            <strong>Data scientist </strong> with a focus on building
             data-driven and scalable solutions. Certified by{" "}
             <strong>IBM (Coursera)</strong> and <strong>Kaggle</strong>, I
             specialize in <strong>Python, JavaScript</strong> and{" "}
-            <strong>cloud technologies</strong> including the Zoho ecosystem and Google Cloud Platform. I
+            <strong>cloud technologies</strong> including the Erps ecosystem and Google Cloud Platform. I
             have hands-on experience designing intelligent systems and
             developing  applications that transform raw data into actionable insights.
           </p>
@@ -74,9 +74,7 @@ function About() {
             late night code or optimizing  APIs. Outside of work, I’m a{" "}
             <strong>lifelong learner</strong>  enjoying reading documentation,
            <strong>articles</strong> contributing 
-            to open-source projects on <strong>Kaggle</strong> and  tech forums. I also believe
-            in the importance of balance  physical fitness fuels my discipline,
-            focus and creativity.
+            to open-source projects on <strong>Kaggle</strong> and  tech forums.
           </p>
 
           <h3 style={{ color: "var(--accent)", marginTop: "1.5rem" }}>
@@ -107,13 +105,13 @@ function About() {
               just code.
             </li>
           </ul>
-
+{/* 
           <p>
             I bridge <strong>technical execution</strong> with{" "}
             <strong>innovative thinking</strong>  always driven by curiosity
             and impact. I’m excited to collaborate on projects that challenge me
             to grow while delivering measurable results.
-          </p>
+          </p> */}
 
           <h4 style={{ marginTop: "1.5rem" }}>
             <strong>⭐ Check out my GitHub:</strong>{" "}

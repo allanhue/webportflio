@@ -23,6 +23,3 @@ A modern, responsive portfolio website built with React and Vite featuring a roc
 
 
 
-## License
-
-This project is open source and available under the MIT License.

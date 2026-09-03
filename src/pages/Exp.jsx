@@ -27,7 +27,7 @@ const Exp = () => {
       institution: 'IBM Coursera',
       title: 'Full-Stack Software Developer Certificate',
       description:
-        'Mastered end-to-end development and deployed real-world projects like an e-commerce platform using React, Node.js, and PostgreSQL. This training equipped me to deliver client solutions professionally, including freelance work on Fiverr and Upwork where I handled full project lifecycles from UI design to cloud deployment on Render infrastructure.',
+        'Mastered end-to-end development and deployed real-world projects service platforms using React, Node.js and PostgreSQL. This training equipped me to deliver client solutions professionally, including freelance work on Fiverr  where I handled full project lifecycles from UI design to cloud deployment on Render infrastructure.',
       skills: ['Software Engineering Principles', 'React', 'Node.js', 'PostgreSQL', 'Cloud Deployment'],
       status: 'Completed'
     },
