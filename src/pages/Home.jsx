@@ -106,14 +106,16 @@ function Home() {
       link: "https://project-manager-one-delta.vercel.app/",
     },
     {
-      name: "Car Dealership E-Commerce",
-      tech: "React, Redux, Node.js, Tailwind CSS",
+      name: "Galleria",
+      tech: "Typescript,Postgres, Golang", 
       status: "Completed",
+      link: "https://galleria-flame-ten.vercel.app/",
     },
     {
       name: "WhatsApp Integration",
-      tech: "Zoho Deluge, REST API, JavaScript, Python",
+      tech: "Deluge, REST API, JavaScript, Python",
       status: "In Progress",
+      link: "#",
     },
   ];
   
