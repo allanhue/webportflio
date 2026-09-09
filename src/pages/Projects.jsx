@@ -51,15 +51,15 @@ function Projects() {
       liveLink: "https://galleria-flame-ten.vercel.app",
       status: "Completed"
     },
-    {
-      title: "Green Taxonomy Risk Scorer",
-      description:
-        "A risk scoring application that classifies loans by green taxonomy alignment, based on Kenya’s Green Finance Taxonomy (KGFT) and climate risk exposure by county.",
-      technologies: ["Golang", "TypeScript", "PostgreSQL", "Data Visualization", "Clerk Auth"],
-      // githubLink: "https://github.com/allanhue/Green-Taxonomy-Risk-Scorer",
-      // liveLink: "https://green-taxonomy-risk-scorer.vercel.app",
-      status: "In Development"
-    },
+    // {
+    //   title: "Green Taxonomy Risk Scorer",
+    //   description:
+    //     "A risk scoring application that classifies loans by green taxonomy alignment, based on Kenya’s Green Finance Taxonomy (KGFT) and climate risk exposure by county.",
+    //   technologies: ["Golang", "TypeScript", "PostgreSQL", "Data Visualization", "Clerk Auth"],
+    //   // githubLink: "https://github.com/allanhue/Green-Taxonomy-Risk-Scorer",
+    //   // liveLink: "https://green-taxonomy-risk-scorer.vercel.app",
+    //   status: "In Development"
+    // },
     
   ];
 
