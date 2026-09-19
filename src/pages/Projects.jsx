@@ -23,7 +23,7 @@ function Projects() {
         "Kaggle competition project using Python to identify money laundering patterns in 50k+ transaction records. Achieved 92% accuracy with Random Forest model.",
       technologies: ["Python", "Pandas", "Scikit-learn", "Numpy", "Data Visualization"],
       githubLink: "https://github.com/allanhue/Data-Science/blob/main/Financial%20Fraud%20Detection%20Analytics%20Report.ipynb",
-      liveLink: "https://www.kaggle.com/allanyengsnxmwas",
+      liveLink: "https://www.kaggle.com/mwanginotfound",
       status: "Completed"
     },
     {
